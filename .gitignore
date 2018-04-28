@@ -99,3 +99,21 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.iml
+.DS_Store
+*.xml
+bin/activate
+bin/activate.csh
+bin/activate.fish
+bin/activate_this.py
+bin/easy_install
+bin/easy_install-2.7
+bin/pip2
+bin/pip
+bin/pip2.7
+bin/python
+bin/python-config
+bin/python2
+bin/wheel
+include/python2.7
+bin/python2.7
